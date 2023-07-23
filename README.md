@@ -13,8 +13,6 @@ Seja bem-vindo ao meu perfil do Github.
 <a href = "https://www.linkedin.com/in/bruno-morais-br/"><img src ="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "https://www.instagram.com/brnidm"><img src ="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
-### O que tenho escutado  
-![](https://spotify-recently-played-readme.vercel.app/api?user=brunoienne98)
 
 
 
